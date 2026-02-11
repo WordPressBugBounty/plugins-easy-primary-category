@@ -4,7 +4,7 @@ Donate Link: PayPal.me/gagan0123
 Tags: category, primary
 Requires at least: 4.5
 Requires PHP: 5.6
-Tested up to: 6.2.2
+Tested up to: 6.9
 Stable tag: 1.1.1
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
